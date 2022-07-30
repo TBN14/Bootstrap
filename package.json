@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap",
+  "version": "1.0.0",
+  "description": "Estoy entrenando como trabajar en equipo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "browser-sync start --server --files '*.html'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TBN14/Bootstrap.git"
+  },
+  "author": "Esteban Reyes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TBN14/Bootstrap/issues"
+  },
+  "homepage": "https://github.com/TBN14/Bootstrap#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.10"
+  }
+}
